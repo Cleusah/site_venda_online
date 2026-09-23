@@ -53,7 +53,7 @@ export default function Home() {
             <Grid item xs={12} md={5} sx={{ display: { xs: 'none', md: 'block' } }}>
               <Box
                 component="img"
-                src="https://picsum.photos/seed/morabeza-hero/600/420"
+                src="/products/hero.svg"
                 alt="Cuidador a ajudar idoso, cena de carinho e apoio"
                 sx={{ width: '100%', borderRadius: 4, boxShadow: 6 }}
               />
